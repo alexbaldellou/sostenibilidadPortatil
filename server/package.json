@@ -1,5 +1,17 @@
 {
+  "name": "mi-app",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
   "dependencies": {
+    "fs": "^0.0.1-security",
+    "express": "^4.19.2",
+    "node-cron": "^4.2.1",
     "systeminformation": "^5.27.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
   }
 }

@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp": "2025-08-13T14:45:00.049Z",
+    "uptime_hours": "6.65",
+    "cpu_usage_percent": "31.89",
+    "ram_usage_percent": "85.37",
+    "battery_percent": 99,
+    "battery_plugged": true
+  },
+  {
+    "timestamp": "2025-08-13T14:50:00.019Z",
+    "uptime_hours": "6.73",
+    "cpu_usage_percent": "19.48",
+    "ram_usage_percent": "83.05",
+    "battery_percent": 99,
+    "battery_plugged": true
+  },
+  {
+    "timestamp": "2025-08-13T14:55:00.017Z",
+    "uptime_hours": "6.81",
+    "cpu_usage_percent": "27.82",
+    "ram_usage_percent": "86.84",
+    "battery_percent": 99,
+    "battery_plugged": true
+  },
+  {
+    "timestamp": "2025-08-13T15:00:00.033Z",
+    "uptime_hours": "6.90",
+    "cpu_usage_percent": "26.89",
+    "ram_usage_percent": "86.07",
+    "battery_percent": 99,
+    "battery_plugged": true
+  },
+  {
+    "timestamp": "2025-08-13T15:05:00.066Z",
+    "uptime_hours": "6.98",
+    "cpu_usage_percent": "27.03",
+    "ram_usage_percent": "88.61",
+    "battery_percent": 99,
+    "battery_plugged": true
+  },
+  {
+    "timestamp": "2025-08-13T15:10:00.082Z",
+    "uptime_hours": "7.06",
+    "cpu_usage_percent": "25.06",
+    "ram_usage_percent": "88.63",
+    "battery_percent": 99,
+    "battery_plugged": false
+  },
+  {
+    "timestamp": "2025-08-13T15:15:00.091Z",
+    "uptime_hours": "7.15",
+    "cpu_usage_percent": "46.52",
+    "ram_usage_percent": "88.77",
+    "battery_percent": 97,
+    "battery_plugged": false
+  }
+]
