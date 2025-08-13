@@ -1,3 +1,4 @@
+import { RocketLaunchIcon } from "@heroicons/react/24/outline";
 import { LoginController } from "./LoginController";
 
 export const Login = () => {
@@ -5,8 +6,8 @@ export const Login = () => {
     LoginController();
   return (
     <div className="w-full h-screen flex items-center justify-center bg-radial-[at_50%_75%] from-teal-400 to-teal-900">
-      <form onSubmit={(event) => sendUserPasswd(event)}>
-        <div className="bg-teal-300/70 p-5 rounded-xl font-bold text-xl ">
+      <form onSubmit={sendUserPasswd} autoComplete="off">
+        <div className="bg-teal-300/70 p-5 rounded-xl font-bold text-xl w-80">
           <input
             id="username"
             type="text"
@@ -16,7 +17,7 @@ export const Login = () => {
             onChange={(e) => setUsuario(e.target.value)}
             className="block min-w-0 grow bg-transparent py-1.5 pr-3 pl-1 text-white placeholder:text-gray-500 focus:outline-none"
           />
-          <div>
+          <div className="flex justify-between">
             <input
               id="password"
               type="password"
@@ -26,7 +27,14 @@ export const Login = () => {
               onChange={(e) => setPassword(e.target.value)}
               className="block min-w-0 grow bg-transparent py-1.5 pr-3 pl-1 text-white placeholder:text-gray-500 focus:outline-none"
             />
-            {/* <button onClick={() => sendUserPasswd()}></button> */}
+            {usuario && password && (
+              <button
+                type="submit"
+                className="w-12 bg-teal-500 rounded-xl p-2 text-white"
+              >
+                <RocketLaunchIcon />
+              </button>
+            )}
           </div>
         </div>
       </form>
