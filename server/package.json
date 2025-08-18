@@ -5,10 +5,12 @@
     "dev": "nodemon app.js"
   },
   "dependencies": {
+    "@paulcbetts/system-idle-time": "^1.0.5",
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "fs": "^0.0.1-security",
     "node-cron": "^4.2.1",
+    "pm2": "^6.0.8",
     "systeminformation": "^5.27.7"
   },
   "devDependencies": {

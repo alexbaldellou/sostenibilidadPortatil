@@ -2,6 +2,7 @@ const si = require("systeminformation");
 const fs = require("fs");
 const path = require("path");
 const cron = require("node-cron");
+const systemIdleTime = require('@paulcbetts/system-idle-time');
 
 const filePath = path.join(__dirname, "daily_metrics.json");
 
@@ -11,6 +12,7 @@ async function collectMetrics() {
   const cpu = await si.currentLoad();
   const mem = await si.mem();
   const battery = await si.battery();
+  const idleSecs = systemIdleTime.getIdleTime();
 
   const metrics = {
     timestamp: time,
@@ -19,7 +21,7 @@ async function collectMetrics() {
     ram_usage_percent: ((mem.active / mem.total) * 100).toFixed(2),
     battery_percent: battery.hasBattery ? battery.percent : null,
     battery_plugged: battery.hasBattery ? battery.isCharging : null,
-    isStandBy: uptime.idle,
+    inactive: idleSecs >= 300000 ? true : false,
   };
 
   let data = [];
