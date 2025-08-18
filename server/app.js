@@ -1,15 +1,16 @@
-import express from "express";
-
-import { fileURLToPath } from "url";
-
-import fs from "fs";
-import path from "path";
+const express = require("express");
+const cors = require("cors");
+const fs = require("fs");
+const path = require("path");
 
 const app = express();
 const port = 3001;
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+// const __filename = fileURLToPath(import.meta.url);
+// const __dirname = path.dirname(__filename);
+
+// Permitir CORS para todas las peticiones
+app.use(cors());
 
 app.get("/", (req, res) => {
   res.send("API de Sostenibilidad Personal");

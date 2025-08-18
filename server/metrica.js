@@ -11,6 +11,15 @@ async function collectMetrics() {
   const cpu = await si.currentLoad();
   const mem = await si.mem();
   const battery = await si.battery();
+  const process = await si.processes();
+  const network = await si.networkStats();
+
+  const cpuPercent = cpu.currentLoad;
+  const processActive = process.list.filter((p) => p.cpu > 1 || p.mem > 1);
+  const networkActivity = network.reduce(
+    (acc, r) => acc + r.rx_sec + r.tx_sec,
+    0
+  );
 
   const metrics = {
     timestamp: time,
@@ -19,6 +28,8 @@ async function collectMetrics() {
     ram_usage_percent: ((mem.active / mem.total) * 100).toFixed(2),
     battery_percent: battery.hasBattery ? battery.percent : null,
     battery_plugged: battery.hasBattery ? battery.isCharging : null,
+    isStandBy:
+      cpuPercent < 5 && processActive.length === 0 && networkActivity < 1000,
   };
 
   let data = [];
@@ -31,8 +42,7 @@ async function collectMetrics() {
   console.log("✅ Métricas guardadas correctamente.");
 }
 
-// Ejecutar cada hora
-// cron.schedule("0 * * * *", () => {
+// Ejecutar cada 5 minutos
 cron.schedule("*/5 * * * *", () => {
   console.log("⏱️ Ejecutando recolección de métricas...");
   collectMetrics();
