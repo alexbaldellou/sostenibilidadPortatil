@@ -18,11 +18,13 @@ export const CoMetric = (props: CoMetricProps) => {
     ramDefault
   );
   const upTime = Math.max(...metrics.map((metric) => metric.uptime_hours));
-  const upTimeToday = Math.max(
-    ...metrics
-      .filter((metric) => metric.inactive)
-      .map((metric) => metric.uptime_hours)
-  );
+  const upTimeToday =
+    upTime -
+    Math.max(
+      ...metrics
+        .filter((metric) => metric.inactive)
+        .map((metric) => metric.uptime_hours)
+    );
   const totalWh = (CPUWh + RAMWh) * (upTime - upTimeToday);
 
   return (
