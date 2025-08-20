@@ -8,6 +8,7 @@ export interface Metric {
   battery_percent: number;
   battery_plugged: boolean;
   inactive: boolean;
+  uptimme_inactive_hours: number;
 }
 
 const API_URL = "http://localhost:3001/api/metrics";

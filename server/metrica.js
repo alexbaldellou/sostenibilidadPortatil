@@ -2,7 +2,7 @@ const si = require("systeminformation");
 const fs = require("fs");
 const path = require("path");
 const cron = require("node-cron");
-const systemIdleTime = require('@paulcbetts/system-idle-time');
+const systemIdleTime = require("@paulcbetts/system-idle-time");
 
 const filePath = path.join(__dirname, "daily_metrics.json");
 
@@ -22,6 +22,9 @@ async function collectMetrics() {
     battery_percent: battery.hasBattery ? battery.percent : null,
     battery_plugged: battery.hasBattery ? battery.isCharging : null,
     inactive: idleSecs >= 300000 ? true : false,
+    uptimme_inactive_hours: idleSecs
+      ? Number((idleSecs / (1000 * 60 * 60)).toFixed(2))
+      : 0,
   };
 
   let data = [];

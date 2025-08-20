@@ -1,1742 +1,212 @@
 [
   {
-    "timestamp": "2025-08-13T14:45:00.049Z",
-    "uptime_hours": "6.65",
-    "cpu_usage_percent": "31.89",
-    "ram_usage_percent": "85.37",
-    "battery_percent": 99,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-13T14:50:00.019Z",
-    "uptime_hours": "6.73",
-    "cpu_usage_percent": "19.48",
-    "ram_usage_percent": "83.05",
-    "battery_percent": 99,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-13T14:55:00.017Z",
-    "uptime_hours": "6.81",
-    "cpu_usage_percent": "27.82",
-    "ram_usage_percent": "86.84",
-    "battery_percent": 99,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-13T15:00:00.033Z",
-    "uptime_hours": "6.90",
-    "cpu_usage_percent": "26.89",
-    "ram_usage_percent": "86.07",
-    "battery_percent": 99,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-13T15:05:00.066Z",
-    "uptime_hours": "6.98",
-    "cpu_usage_percent": "27.03",
-    "ram_usage_percent": "88.61",
-    "battery_percent": 99,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-13T15:10:00.082Z",
-    "uptime_hours": "7.06",
-    "cpu_usage_percent": "25.06",
-    "ram_usage_percent": "88.63",
-    "battery_percent": 99,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-13T15:15:00.091Z",
-    "uptime_hours": "7.15",
-    "cpu_usage_percent": "46.52",
-    "ram_usage_percent": "88.77",
-    "battery_percent": 97,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-13T15:20:00.084Z",
-    "uptime_hours": "7.23",
-    "cpu_usage_percent": "62.21",
-    "ram_usage_percent": "89.23",
-    "battery_percent": 94,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-13T15:25:00.064Z",
-    "uptime_hours": "7.31",
-    "cpu_usage_percent": "43.88",
-    "ram_usage_percent": "90.06",
-    "battery_percent": 92,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-13T15:30:00.069Z",
-    "uptime_hours": "7.40",
-    "cpu_usage_percent": "44.34",
-    "ram_usage_percent": "89.33",
-    "battery_percent": 90,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-13T15:35:00.061Z",
-    "uptime_hours": "7.48",
-    "cpu_usage_percent": "43.84",
-    "ram_usage_percent": "86.69",
-    "battery_percent": 88,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-13T15:40:00.037Z",
-    "uptime_hours": "7.56",
-    "cpu_usage_percent": "43.35",
-    "ram_usage_percent": "76.82",
-    "battery_percent": 86,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-13T15:45:00.068Z",
-    "uptime_hours": "7.65",
-    "cpu_usage_percent": "42.54",
-    "ram_usage_percent": "74.18",
-    "battery_percent": 84,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-13T15:50:00.040Z",
-    "uptime_hours": "7.73",
-    "cpu_usage_percent": "41.82",
-    "ram_usage_percent": "73.48",
-    "battery_percent": 82,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-13T15:55:00.069Z",
-    "uptime_hours": "7.81",
-    "cpu_usage_percent": "34.52",
-    "ram_usage_percent": "76.62",
-    "battery_percent": 81,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-13T16:00:00.073Z",
-    "uptime_hours": "7.90",
-    "cpu_usage_percent": "43.09",
-    "ram_usage_percent": "76.04",
-    "battery_percent": 79,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-13T16:05:00.058Z",
-    "uptime_hours": "7.98",
-    "cpu_usage_percent": "31.24",
-    "ram_usage_percent": "74.50",
-    "battery_percent": 77,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-13T16:10:00.053Z",
-    "uptime_hours": "8.06",
-    "cpu_usage_percent": "41.10",
-    "ram_usage_percent": "77.49",
-    "battery_percent": 75,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-13T16:15:00.034Z",
-    "uptime_hours": "8.15",
-    "cpu_usage_percent": "37.10",
-    "ram_usage_percent": "80.35",
-    "battery_percent": 73,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-13T16:20:00.126Z",
-    "uptime_hours": "8.23",
-    "cpu_usage_percent": "61.45",
-    "ram_usage_percent": "86.05",
-    "battery_percent": 71,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T07:20:00.060Z",
-    "uptime_hours": "23.23",
-    "cpu_usage_percent": "71.45",
-    "ram_usage_percent": "84.70",
-    "battery_percent": 64,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T07:25:00.161Z",
-    "uptime_hours": "23.31",
-    "cpu_usage_percent": "62.22",
-    "ram_usage_percent": "79.50",
-    "battery_percent": 62,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T07:30:00.530Z",
-    "uptime_hours": "23.40",
-    "cpu_usage_percent": "51.56",
-    "ram_usage_percent": "76.88",
-    "battery_percent": 59,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T07:35:00.047Z",
-    "uptime_hours": "23.48",
-    "cpu_usage_percent": "48.70",
-    "ram_usage_percent": "78.57",
-    "battery_percent": 57,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T07:40:00.054Z",
-    "uptime_hours": "23.56",
-    "cpu_usage_percent": "48.72",
-    "ram_usage_percent": "76.57",
-    "battery_percent": 54,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T07:45:00.078Z",
-    "uptime_hours": "23.65",
-    "cpu_usage_percent": "44.05",
-    "ram_usage_percent": "75.82",
-    "battery_percent": 52,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T07:50:00.046Z",
-    "uptime_hours": "23.73",
-    "cpu_usage_percent": "46.12",
-    "ram_usage_percent": "73.31",
+    "timestamp": "2025-08-20T07:55:00.235Z",
+    "uptime_hours": "0.17",
+    "cpu_usage_percent": "83.86",
+    "ram_usage_percent": "61.73",
     "battery_percent": 50,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T07:55:00.048Z",
-    "uptime_hours": "23.81",
-    "cpu_usage_percent": "52.19",
-    "ram_usage_percent": "70.96",
-    "battery_percent": 48,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T08:00:00.064Z",
-    "uptime_hours": "23.90",
-    "cpu_usage_percent": "36.42",
-    "ram_usage_percent": "64.84",
-    "battery_percent": 46,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T08:05:00.047Z",
-    "uptime_hours": "23.98",
-    "cpu_usage_percent": "33.91",
-    "ram_usage_percent": "65.15",
-    "battery_percent": 44,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T08:10:00.030Z",
-    "uptime_hours": "24.06",
-    "cpu_usage_percent": "25.95",
-    "ram_usage_percent": "65.85",
-    "battery_percent": 43,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T08:15:00.088Z",
-    "uptime_hours": "24.15",
-    "cpu_usage_percent": "29.84",
-    "ram_usage_percent": "68.70",
-    "battery_percent": 42,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T08:20:00.055Z",
-    "uptime_hours": "24.23",
-    "cpu_usage_percent": "46.51",
-    "ram_usage_percent": "69.88",
-    "battery_percent": 39,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T08:25:00.056Z",
-    "uptime_hours": "24.31",
-    "cpu_usage_percent": "51.45",
-    "ram_usage_percent": "71.03",
-    "battery_percent": 37,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T08:30:00.041Z",
-    "uptime_hours": "24.39",
-    "cpu_usage_percent": "44.18",
-    "ram_usage_percent": "68.42",
-    "battery_percent": 35,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T08:35:00.052Z",
-    "uptime_hours": "24.48",
-    "cpu_usage_percent": "50.18",
-    "ram_usage_percent": "68.35",
-    "battery_percent": 33,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T08:40:00.049Z",
-    "uptime_hours": "24.56",
-    "cpu_usage_percent": "47.29",
-    "ram_usage_percent": "68.07",
-    "battery_percent": 30,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T08:45:00.029Z",
-    "uptime_hours": "24.64",
-    "cpu_usage_percent": "39.34",
-    "ram_usage_percent": "68.78",
-    "battery_percent": 30,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T08:50:00.032Z",
-    "uptime_hours": "24.73",
-    "cpu_usage_percent": "18.74",
-    "ram_usage_percent": "67.35",
-    "battery_percent": 35,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T08:55:00.034Z",
-    "uptime_hours": "24.81",
-    "cpu_usage_percent": "18.40",
-    "ram_usage_percent": "66.73",
-    "battery_percent": 39,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T09:00:00.024Z",
-    "uptime_hours": "24.89",
-    "cpu_usage_percent": "15.82",
-    "ram_usage_percent": "68.14",
-    "battery_percent": 44,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T09:05:00.028Z",
-    "uptime_hours": "24.98",
-    "cpu_usage_percent": "19.71",
-    "ram_usage_percent": "68.51",
-    "battery_percent": 48,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T09:10:00.022Z",
-    "uptime_hours": "25.06",
-    "cpu_usage_percent": "25.65",
-    "ram_usage_percent": "70.73",
-    "battery_percent": 52,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T09:15:00.017Z",
-    "uptime_hours": "25.14",
-    "cpu_usage_percent": "18.20",
-    "ram_usage_percent": "67.22",
-    "battery_percent": 57,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T09:20:00.033Z",
-    "uptime_hours": "25.23",
-    "cpu_usage_percent": "20.21",
-    "ram_usage_percent": "69.93",
-    "battery_percent": 61,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T09:25:00.029Z",
-    "uptime_hours": "25.31",
-    "cpu_usage_percent": "19.58",
-    "ram_usage_percent": "70.18",
-    "battery_percent": 65,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T09:30:00.044Z",
-    "uptime_hours": "25.39",
-    "cpu_usage_percent": "20.29",
-    "ram_usage_percent": "73.95",
-    "battery_percent": 70,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T09:35:00.036Z",
-    "uptime_hours": "25.48",
-    "cpu_usage_percent": "18.49",
-    "ram_usage_percent": "73.36",
-    "battery_percent": 75,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T09:40:00.032Z",
-    "uptime_hours": "25.56",
-    "cpu_usage_percent": "16.78",
-    "ram_usage_percent": "73.18",
-    "battery_percent": 79,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T09:45:00.041Z",
-    "uptime_hours": "25.64",
-    "cpu_usage_percent": "19.51",
-    "ram_usage_percent": "71.39",
-    "battery_percent": 83,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T09:50:00.023Z",
-    "uptime_hours": "25.73",
-    "cpu_usage_percent": "19.00",
-    "ram_usage_percent": "71.33",
-    "battery_percent": 87,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T09:55:00.022Z",
-    "uptime_hours": "25.81",
-    "cpu_usage_percent": "24.93",
-    "ram_usage_percent": "70.13",
-    "battery_percent": 90,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T10:00:00.033Z",
-    "uptime_hours": "25.89",
-    "cpu_usage_percent": "23.79",
-    "ram_usage_percent": "69.73",
-    "battery_percent": 92,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T10:05:00.030Z",
-    "uptime_hours": "25.98",
-    "cpu_usage_percent": "18.86",
-    "ram_usage_percent": "68.31",
-    "battery_percent": 95,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T10:10:00.028Z",
-    "uptime_hours": "26.06",
-    "cpu_usage_percent": "19.83",
-    "ram_usage_percent": "68.48",
-    "battery_percent": 97,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T10:15:00.041Z",
-    "uptime_hours": "26.14",
-    "cpu_usage_percent": "19.09",
-    "ram_usage_percent": "72.02",
-    "battery_percent": 98,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T10:20:00.041Z",
-    "uptime_hours": "26.23",
-    "cpu_usage_percent": "13.44",
-    "ram_usage_percent": "70.21",
-    "battery_percent": 100,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T10:25:00.039Z",
-    "uptime_hours": "26.31",
-    "cpu_usage_percent": "20.43",
-    "ram_usage_percent": "68.98",
-    "battery_percent": 100,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T10:30:00.043Z",
-    "uptime_hours": "26.39",
-    "cpu_usage_percent": "21.58",
-    "ram_usage_percent": "73.83",
-    "battery_percent": 100,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T10:35:00.027Z",
-    "uptime_hours": "26.48",
-    "cpu_usage_percent": "22.62",
-    "ram_usage_percent": "74.82",
-    "battery_percent": 99,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T10:40:00.021Z",
-    "uptime_hours": "26.56",
-    "cpu_usage_percent": "18.76",
-    "ram_usage_percent": "72.62",
-    "battery_percent": 99,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T13:45:00.348Z",
-    "uptime_hours": "29.65",
-    "cpu_usage_percent": "21.47",
-    "ram_usage_percent": "79.45",
-    "battery_percent": 97,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T13:50:00.024Z",
-    "uptime_hours": "29.73",
-    "cpu_usage_percent": "61.81",
-    "ram_usage_percent": "72.12",
-    "battery_percent": 97,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T13:55:00.064Z",
-    "uptime_hours": "29.81",
-    "cpu_usage_percent": "43.78",
-    "ram_usage_percent": "72.40",
-    "battery_percent": 95,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T14:00:00.055Z",
-    "uptime_hours": "29.90",
-    "cpu_usage_percent": "25.24",
-    "ram_usage_percent": "72.34",
-    "battery_percent": 93,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T14:05:00.042Z",
-    "uptime_hours": "29.98",
-    "cpu_usage_percent": "33.99",
-    "ram_usage_percent": "71.99",
-    "battery_percent": 92,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T14:10:00.029Z",
-    "uptime_hours": "30.06",
-    "cpu_usage_percent": "20.57",
-    "ram_usage_percent": "73.44",
-    "battery_percent": 93,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T14:15:00.042Z",
-    "uptime_hours": "30.15",
-    "cpu_usage_percent": "13.71",
-    "ram_usage_percent": "69.47",
-    "battery_percent": 96,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T14:25:00.011Z",
-    "uptime_hours": "30.31",
-    "cpu_usage_percent": "26.89",
-    "ram_usage_percent": "71.65",
-    "battery_percent": 99,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-14T14:30:00.028Z",
-    "uptime_hours": "30.40",
-    "cpu_usage_percent": "21.49",
-    "ram_usage_percent": "72.85",
-    "battery_percent": 100,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T14:35:00.032Z",
-    "uptime_hours": "30.48",
-    "cpu_usage_percent": "18.94",
-    "ram_usage_percent": "71.53",
-    "battery_percent": 100,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T14:40:00.047Z",
-    "uptime_hours": "30.56",
-    "cpu_usage_percent": "38.51",
-    "ram_usage_percent": "69.41",
-    "battery_percent": 98,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T14:45:00.047Z",
-    "uptime_hours": "30.65",
-    "cpu_usage_percent": "39.96",
-    "ram_usage_percent": "69.23",
-    "battery_percent": 96,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T14:50:00.056Z",
-    "uptime_hours": "30.73",
-    "cpu_usage_percent": "39.05",
-    "ram_usage_percent": "69.76",
-    "battery_percent": 95,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T14:55:00.036Z",
-    "uptime_hours": "30.81",
-    "cpu_usage_percent": "21.16",
-    "ram_usage_percent": "66.60",
-    "battery_percent": 94,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T17:20:00.031Z",
-    "uptime_hours": "33.23",
-    "cpu_usage_percent": "30.99",
-    "ram_usage_percent": "70.43",
-    "battery_percent": 90,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T17:25:00.144Z",
-    "uptime_hours": "33.31",
-    "cpu_usage_percent": "39.20",
-    "ram_usage_percent": "46.48",
-    "battery_percent": 88,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T17:30:00.071Z",
-    "uptime_hours": "33.40",
-    "cpu_usage_percent": "28.06",
-    "ram_usage_percent": "50.49",
-    "battery_percent": 87,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T17:35:00.035Z",
-    "uptime_hours": "33.48",
-    "cpu_usage_percent": "44.32",
-    "ram_usage_percent": "54.23",
-    "battery_percent": 85,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T17:40:00.046Z",
-    "uptime_hours": "33.56",
-    "cpu_usage_percent": "21.66",
-    "ram_usage_percent": "54.16",
-    "battery_percent": 83,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T17:45:00.036Z",
-    "uptime_hours": "33.65",
-    "cpu_usage_percent": "20.61",
-    "ram_usage_percent": "55.61",
-    "battery_percent": 83,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T17:50:00.033Z",
-    "uptime_hours": "33.73",
-    "cpu_usage_percent": "55.95",
-    "ram_usage_percent": "60.12",
-    "battery_percent": 80,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T17:55:00.042Z",
-    "uptime_hours": "33.81",
-    "cpu_usage_percent": "39.36",
-    "ram_usage_percent": "60.46",
-    "battery_percent": 78,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T18:00:00.055Z",
-    "uptime_hours": "33.90",
-    "cpu_usage_percent": "44.69",
-    "ram_usage_percent": "61.37",
-    "battery_percent": 76,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T18:05:00.048Z",
-    "uptime_hours": "33.98",
-    "cpu_usage_percent": "54.80",
-    "ram_usage_percent": "63.20",
-    "battery_percent": 74,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T18:10:00.041Z",
-    "uptime_hours": "34.06",
-    "cpu_usage_percent": "64.65",
-    "ram_usage_percent": "65.09",
-    "battery_percent": 71,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T18:15:00.054Z",
-    "uptime_hours": "34.15",
-    "cpu_usage_percent": "53.88",
-    "ram_usage_percent": "65.35",
-    "battery_percent": 68,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T18:20:00.023Z",
-    "uptime_hours": "34.23",
-    "cpu_usage_percent": "49.57",
-    "ram_usage_percent": "71.59",
-    "battery_percent": 66,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T18:25:00.082Z",
-    "uptime_hours": "34.31",
-    "cpu_usage_percent": "52.53",
-    "ram_usage_percent": "69.13",
-    "battery_percent": 63,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T18:30:00.070Z",
-    "uptime_hours": "34.40",
-    "cpu_usage_percent": "47.42",
-    "ram_usage_percent": "69.98",
-    "battery_percent": 61,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T18:35:00.058Z",
-    "uptime_hours": "34.48",
-    "cpu_usage_percent": "40.90",
-    "ram_usage_percent": "80.31",
-    "battery_percent": 58,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T18:40:00.059Z",
-    "uptime_hours": "34.56",
-    "cpu_usage_percent": "41.94",
-    "ram_usage_percent": "65.64",
-    "battery_percent": 56,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T18:45:00.062Z",
-    "uptime_hours": "34.65",
-    "cpu_usage_percent": "45.08",
-    "ram_usage_percent": "69.05",
-    "battery_percent": 54,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T18:50:00.036Z",
-    "uptime_hours": "34.73",
-    "cpu_usage_percent": "42.23",
-    "ram_usage_percent": "66.11",
-    "battery_percent": 51,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T18:55:00.052Z",
-    "uptime_hours": "34.81",
-    "cpu_usage_percent": "46.88",
-    "ram_usage_percent": "65.25",
-    "battery_percent": 49,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T19:00:00.106Z",
-    "uptime_hours": "34.90",
-    "cpu_usage_percent": "46.74",
-    "ram_usage_percent": "63.43",
-    "battery_percent": 47,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T19:05:00.050Z",
-    "uptime_hours": "34.98",
-    "cpu_usage_percent": "38.29",
-    "ram_usage_percent": "64.76",
+    "battery_plugged": false,
+    "inactive": false,
+    "uptimme_inactive_hours": 0
+  },
+  {
+    "timestamp": "2025-08-20T08:00:00.303Z",
+    "uptime_hours": "0.25",
+    "cpu_usage_percent": "77.94",
+    "ram_usage_percent": "72.65",
     "battery_percent": 45,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T19:10:00.025Z",
-    "uptime_hours": "35.06",
-    "cpu_usage_percent": "36.90",
-    "ram_usage_percent": "64.33",
-    "battery_percent": 43,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T19:15:00.076Z",
-    "uptime_hours": "35.15",
-    "cpu_usage_percent": "33.27",
-    "ram_usage_percent": "65.07",
-    "battery_percent": 42,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-14T19:20:00.032Z",
-    "uptime_hours": "35.23",
-    "cpu_usage_percent": "43.62",
-    "ram_usage_percent": "64.70",
-    "battery_percent": 39,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-18T06:10:00.027Z",
-    "uptime_hours": "118.06",
-    "cpu_usage_percent": "72.43",
-    "ram_usage_percent": "72.32",
-    "battery_percent": 30,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-18T06:20:00.336Z",
-    "uptime_hours": "118.23",
-    "cpu_usage_percent": "55.53",
-    "ram_usage_percent": "82.80",
-    "battery_percent": 36,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-18T06:25:00.024Z",
-    "uptime_hours": "118.31",
-    "cpu_usage_percent": "30.46",
-    "ram_usage_percent": "77.11",
-    "battery_percent": 40,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-18T06:30:00.028Z",
-    "uptime_hours": "118.39",
-    "cpu_usage_percent": "30.88",
-    "ram_usage_percent": "75.12",
-    "battery_percent": 43,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-18T06:35:00.023Z",
-    "uptime_hours": "118.48",
-    "cpu_usage_percent": "26.06",
-    "ram_usage_percent": "74.74",
-    "battery_percent": 47,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-18T06:40:00.026Z",
-    "uptime_hours": "118.56",
-    "cpu_usage_percent": "42.05",
-    "ram_usage_percent": "79.52",
-    "battery_percent": 50,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-18T06:45:00.012Z",
-    "uptime_hours": "118.64",
-    "cpu_usage_percent": "28.83",
-    "ram_usage_percent": "81.10",
-    "battery_percent": 54,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-18T06:50:00.015Z",
-    "uptime_hours": "118.73",
-    "cpu_usage_percent": "26.47",
-    "ram_usage_percent": "86.15",
-    "battery_percent": 57,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-18T07:35:00.022Z",
-    "uptime_hours": "119.48",
-    "cpu_usage_percent": "18.91",
-    "ram_usage_percent": "83.59",
-    "battery_percent": 88,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-18T07:40:00.023Z",
-    "uptime_hours": "119.56",
-    "cpu_usage_percent": "25.22",
-    "ram_usage_percent": "84.38",
-    "battery_percent": 91,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-18T07:45:00.018Z",
-    "uptime_hours": "119.64",
-    "cpu_usage_percent": "20.21",
-    "ram_usage_percent": "82.92",
-    "battery_percent": 93,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-18T07:50:00.017Z",
-    "uptime_hours": "119.73",
-    "cpu_usage_percent": "17.41",
-    "ram_usage_percent": "82.56",
-    "battery_percent": 95,
-    "battery_plugged": true
-  },
-  {
-    "timestamp": "2025-08-18T08:15:00.020Z",
-    "uptime_hours": "120.14",
-    "cpu_usage_percent": "33.83",
-    "ram_usage_percent": "83.46",
-    "battery_percent": 100,
     "battery_plugged": false,
-    "cpuPercent": 33.83387234909828,
-    "processActive": [
-      {
-        "pid": 0,
-        "parentPid": 0,
-        "name": "System Idle Process",
-        "cpu": 73.61832100201417,
-        "cpuu": 0,
-        "cpus": 73.61832100201417,
-        "mem": 0.000048144452615627925,
-        "priority": 0,
-        "memVsz": 60,
-        "memRss": 8,
-        "nice": 0,
-        "started": "2025-08-13 10:06:27",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "System Idle Process",
-        "path": "",
-        "params": ""
-      },
-      {
-        "pid": 4,
-        "parentPid": 0,
-        "name": "System",
-        "cpu": 4.369001429089316,
-        "cpuu": 0,
-        "cpus": 4.369001429089316,
-        "mem": 0.05712339302844254,
-        "priority": 8,
-        "memVsz": 72,
-        "memRss": 9492,
-        "nice": 0,
-        "started": "2025-08-13 10:06:27",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "System",
-        "path": "",
-        "params": ""
-      },
-      {
-        "pid": 1896,
-        "parentPid": 1132,
-        "name": "dwm.exe",
-        "cpu": 1.467209153729979,
-        "cpuu": 0.92380354011038,
-        "cpus": 0.543405613619599,
-        "mem": 0.44846557611457416,
-        "priority": 13,
-        "memVsz": 160412,
-        "memRss": 74520,
-        "nice": 0,
-        "started": "2025-08-13 10:06:44",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "\"dwm.exe\"",
-        "path": "C:\\WINDOWS\\system32\\dwm.exe",
-        "params": ""
-      },
-      {
-        "pid": 3628,
-        "parentPid": 1168,
-        "name": "svchost.exe",
-        "cpu": 1.02303759162758,
-        "cpuu": 0.1503579371844561,
-        "cpus": 0.872679654443124,
-        "mem": 0.1745717851842669,
-        "priority": 8,
-        "memVsz": 20916,
-        "memRss": 29008,
-        "nice": 0,
-        "started": "2025-08-13 10:06:46",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s Winmgmt",
-        "path": "C:\\WINDOWS\\system32\\svchost.exe",
-        "params": ""
-      },
-      {
-        "pid": 4100,
-        "parentPid": 1372,
-        "name": "WmiPrvSE.exe",
-        "cpu": 1.0278884120592184,
-        "cpuu": 0.21106536438978166,
-        "cpus": 0.8168230476694367,
-        "mem": 0.2936570887290226,
-        "priority": 8,
-        "memVsz": 37080,
-        "memRss": 48796,
-        "nice": 0,
-        "started": "2025-08-13 10:06:47",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "C:\\WINDOWS\\system32\\wbem\\wmiprvse.exe",
-        "path": "C:\\WINDOWS\\system32\\wbem\\wmiprvse.exe",
-        "params": ""
-      },
-      {
-        "pid": 4652,
-        "parentPid": 4,
-        "name": "Memory Compression",
-        "cpu": 0.20444742812912473,
-        "cpuu": 0,
-        "cpus": 0.20444742812912473,
-        "mem": 5.390060337035241,
-        "priority": 8,
-        "memVsz": 5112,
-        "memRss": 895648,
-        "nice": 0,
-        "started": "2025-08-13 10:06:48",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "Memory Compression",
-        "path": "",
-        "params": ""
-      },
-      {
-        "pid": 6088,
-        "parentPid": 1168,
-        "name": "DefendpointService.exe",
-        "cpu": 1.6876830976945612,
-        "cpuu": 0.29314876945751994,
-        "cpus": 1.3945343282370413,
-        "mem": 0.2462829473552447,
-        "priority": 8,
-        "memVsz": 37848,
-        "memRss": 40924,
-        "nice": 0,
-        "started": "2025-08-13 10:06:50",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "\"C:\\Program Files\\Avecto\\Privilege Guard Client\\DefendpointService.exe\"",
-        "path": "C:\\Program Files\\Avecto\\Privilege Guard Client\\DefendpointService.exe",
-        "params": ""
-      },
-      {
-        "pid": 12788,
-        "parentPid": 12452,
-        "name": "explorer.exe",
-        "cpu": 0.2524788610955978,
-        "cpuu": 0.08886318114441921,
-        "cpus": 0.16361567995117862,
-        "mem": 1.2765260888770666,
-        "priority": 8,
-        "memVsz": 149624,
-        "memRss": 212116,
-        "nice": 0,
-        "started": "2025-08-13 10:07:40",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "C:\\WINDOWS\\Explorer.EXE",
-        "path": "C:\\WINDOWS\\Explorer.EXE",
-        "params": ""
-      },
-      {
-        "pid": 12912,
-        "parentPid": 16980,
-        "name": "msedgewebview2.exe",
-        "cpu": 0.06379550585702669,
-        "cpuu": 0.04625556903929086,
-        "cpus": 0.017539936817735826,
-        "mem": 1.7570077259810337,
-        "priority": 4,
-        "memVsz": 370668,
-        "memRss": 291956,
-        "nice": 0,
-        "started": "2025-08-13 10:12:42",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\138.0.3351.121\\msedgewebview2.exe\" --type=renderer --noerrdialogs --user-data-dir=\"C:\\Users\\abaldell\\AppData\\Local\\Microsoft\\Olk\\EBWebView\" --webview-exe-name=olk.exe --webview-exe-version=1.2025.806.300 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=es --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=6 --js-flags=\"--expose-gc --ms-user-locale=\" --time-ticks-at-unix-epoch=-1755072378713074 --launch-time-ticks=384062143 --always-read-main-dll --field-trial-handle=1584,i,4194239191994862727,17463502369380135300,262144 -- enable-features=ForceSWDCompWhenDCompFallbackRequired,msAbydos,msAbydosGestureSupport,msAbydosHandwri tingAttr,msAggressiveCacheTrimming,msCustomDataPartition,msEnhancedTextContrast,msSingleSignOnOSForPr imaryAccountIsShared,msWebView2NoTabForScreenShare,msWindowsTaskManager --disable-features=BackForwar dCache,BackgroundTabLoadingFromPerformanceManager,CloseOmniboxPopupOnInactiveAreaClick,CollectAVProdu ctsInfo,CollectCodeIntegrityInfo,EnableHangWatcher,FilterAdsOnAbusiveSites,GetWifiProtocol,LoginDetec tion,PreconnectToSearch,SafetyHub,SegmentationPlatform,SpareRendererForSitePerProcess,Ukm,WebPayments ,msAITrackerClassification,msAbydosForWindowlessWV2,msAffirmVirtualCard,msAllowChromeWebstore,msAllow MSAPrtSSOForNonMSAProfile,msApplicationGuard,msAskBeforeClosingMultipleTabs,msAutoToggleAADPrtSSOForN onAADProfile,msAutofillEdgeCoupons,msAutofillEdgeCouponsAutoApply,msAutofillEdgeServiceRequest,msAuto fillEnableEdgeSuggestions,msAutomaticTabFreeze,msBrowserSettingsSupported,msCoarseGeolocationService, msDataProtection,msDesktopMode,msDesktopRewards,msDisableVariationsSeedFetchThrottling,msEEProactiveH istory,msETFOffstoreExtensionFileDataCollection,msETFPasswordTheftDNRActionSignals,msEdgeAdPlatformUI ,msEdgeAddWebCapturetoCollections,msEdgeAutofillShowDeployedPassword,msEdgeCaptureSelectionInPDF,msEd geCloudConfigService,msEdgeCloudConfigServiceV2,msEdgeCohorts,msEdgeCollectionsPrismExperiment1,msEdg eCollectionsPrismOverallMigration,msEdgeComposeNext,msEdgeEnableNurturingFramework,msEdgeEnclavePrefs Basic,msEdgeEnclavePrefsNotification,msEdgeFaviconService,msEdgeHJTelemetry,msEdgeHubAppSkype,msEdgeI mageEditorUI,msEdgeLinkDoctor,msEdgeMouseGestureDefaultEnabled,msEdgeMouseGestureSupported,msEdgeNewD eviceFre,msEdgeOnRampFRE,msEdgeOnRampImport,msEdgePDFCMHighlightUX,msEdgePasswordIris,msEdgePasswordI risSaveBubble,msEdgeProngPersonalization,msEdgeReadingView,msEdgeRose,msEdgeScreenshotUI,msEdgeSendTa bToSelf,msEdgeSettingsImport,msEdgeSettingsImportV2,msEdgeShoppingPersistentStorage,msEdgeShoppingUI, msEdgeSmartFind,msEdgeSuperDragDefaultEnabled,msEdgeSuperDragDropSupported,msEdgeTipping,msEdgeTransl ate,msEdgeUseCaptivePortalService,msEdgeWebCapture,msEdgeWebCaptureUniformExperience,msEdgeWebContent FilteringFeedback,msEdgeWorkSearchBanner,msEnableCustomJobMemoryLimitsOnXbox,msEnableMIPForPDF,msEnab lePdfUpsell,msEnableThirdPartyScanning,msEnableWebSignInCta,msEnableWebToBrowserSignIn,msEndpointDlp, msEnhancedTrackingPreventionEnabled,msEntityExtraction,msExtensionTelemetryFramework,msExternalTaskMa nager,msFileSystemAccessDirectoryIterationBlocklistCheck,msForceBrowserSignIn,msForeignSessionsPage,m sGeolocationAccessService,msGeolocationOSLocationPermissionFallback,msGeolocationSQMService,msGeoloca tionService,msGrowthInfraLaunchSourceLogging,msGuidedSwitchAllowed,msHubPinPersist,msImplicitSignin,m sIrm,msIrmv2,msKlarnaVirtualCard,msLlmConsumerDlpPurview,msLoadStatistics,msLogIsEdgePinnedToTaskbarO nLaunch,msMIPCrossTenantPdfViewSupport,msMdatpWebSiteDlp,msNotificationPermissionForPWA,msNumberOfSit esToPin,msNurturingSitePinningWithWindowsConsent,msOnHoverSearchInSidebar,msOpenOfficeDocumentsInWebV iewer,msPasswordBreachDetection,msPdfAnnotationsVisibility,msPdfDataRecovery,msPdfDigitalSignatureRea d,msPdfFreeText,msPdfFreeTextForCJK,msPdfHighlightMode,msPdfInking,msPdfKeyphraseSupport,msPdfOOUI,ms PdfPopupMarkerRenderer,msPdfShare,msPdfSharedLibrary,msPdfTextNote,msPdfTextNoteMoreMenu,msPdfThumbna ilCache,msPdfUnderside,msPdfViewRestore,msPersonalizationUMA,msPriceComparison,msPromptDefaultHandler ForPDF,msReactiveSearch,msReadAloud,msReadAloudPdf,msRedirectToShoreline,msRevokeExtensions,msSaasDlp ,msShoppingTrigger,msShorelineSearch,msShorelineSearchFindOnPageWebUI,msShowOfflineGameEntrance,msSho wReadAloudIconInAddressBar,msShowUXForAADPrtSSOForNonAADProfile,msSitePinningWithoutUi,msSuspendMessa geForNewSessionWhenHavingPendingNavigation,msSyncEdgeCollections,msTabResourceStats,msTokenizationAut ofillInlineEnabled,msTouchMode,msTriggeringSignalGenerator,msUserUnderstanding,msVideoSuperResolution UI,msWalletBuyNow,msWalletCheckout,msWalletDiagnosticDataLogger,msWalletHubEntry,msWalletHubIntlP3,ms WalletPartialCard,msWalletPasswordCategorization,msWalletPasswordCategorizationPlatformExpansion,msWa lletTokenizationCardMetadata,msWalletTokenizedAutofill,msWebAssist,msWebAssistHistorySearchService,ms WebOOUI,msWindowsUserActivities,msZipPayVirtualCard --variations-seed-version --mojo-platform-channel-handle=4232 /pfhostedapp:90815d55ead7ee520a209f107d5a6a3602ca8799 /prefetch:1",
-        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\138.0.3351.121\\msedgewebview2.exe",
-        "params": ""
-      },
-      {
-        "pid": 12340,
-        "parentPid": 12788,
-        "name": "chrome.exe",
-        "cpu": 0.8193643701859216,
-        "cpuu": 0.4028630425745443,
-        "cpus": 0.41650132761137726,
-        "mem": 1.3576494915343997,
-        "priority": 8,
-        "memVsz": 195472,
-        "memRss": 225596,
-        "nice": 0,
-        "started": "2025-08-13 10:22:02",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"",
-        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-        "params": ""
-      },
-      {
-        "pid": 19036,
-        "parentPid": 12340,
-        "name": "chrome.exe",
-        "cpu": 0.7128956414875405,
-        "cpuu": 0.5167414104173752,
-        "cpus": 0.19615423107016533,
-        "mem": 1.0453123551905137,
-        "priority": 10,
-        "memVsz": 309992,
-        "memRss": 173696,
-        "nice": 0,
-        "started": "2025-08-13 10:22:04",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" --type=gpu-process --no-pre-read-main-dll --g pu-preferences=UAAAAAAAAADgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAAAAB AAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --metrics-shmem-handle=1732,i,15687882128058295675,692509869251841768,262144 --field-trial-handle=1900,i,5348447327317258929,8339129299849182388,262144 --enable-features=BlockIns ecurePrivateNetworkRequests,BlockInsecurePrivateNetworkRequestsFromPrivate,BlockInsecurePrivateNetwor kRequestsFromUnknown,CookieSameSiteConsidersRedirectChain,CreateImageBitmapOrientationNone,CriticalCl ientHint,DocumentPictureInPictureAPI,DocumentPolicyNegotiation,EnableCanvas2DLayers,ExperimentalConte ntSecurityPolicyFeatures,OriginIsolationHeader,PartitionedPopins,PrivateNetworkAccessRespectPreflight Results,ThirdPartyStoragePartitioning --variations-seed-version=20250812-180128.347000 --mojo-platform-channel-handle=1892 /prefetch:2",
-        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-        "params": ""
-      },
-      {
-        "pid": 14564,
-        "parentPid": 12340,
-        "name": "chrome.exe",
-        "cpu": 0.12022511306042068,
-        "cpuu": 0.1043604370409873,
-        "cpus": 0.015864676019433376,
-        "mem": 1.3478520954271196,
-        "priority": 4,
-        "memVsz": 372696,
-        "memRss": 223968,
-        "nice": 0,
-        "started": "2025-08-13 10:26:47",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" --type=renderer --enable-dinosaur-easter-egg-alt-images --no-pre-read-main-dll --enable-experimental-web-platform-features --video-capture-use-gpu-memory-buffer --lang=es --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=27 --time-ticks-at-unix-epoch=-1755072378085301 --launch-time-ticks=1229065891 --metrics-shmem-handle=5184,i,12166582140983710409,8158032205898149068,2097152 --field-trial-handle=1900,i,5348447327317258929,8339129299849182388,262144 --enable-features=BlockIns ecurePrivateNetworkRequests,BlockInsecurePrivateNetworkRequestsFromPrivate,BlockInsecurePrivateNetwor kRequestsFromUnknown,CookieSameSiteConsidersRedirectChain,CreateImageBitmapOrientationNone,CriticalCl ientHint,DocumentPictureInPictureAPI,DocumentPolicyNegotiation,EnableCanvas2DLayers,ExperimentalConte ntSecurityPolicyFeatures,OriginIsolationHeader,PartitionedPopins,PrivateNetworkAccessRespectPreflight Results,ThirdPartyStoragePartitioning --variations-seed-version=20250812-180128.347000 --mojo-platform-channel-handle=6460 /prefetch:1",
-        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-        "params": ""
-      },
-      {
-        "pid": 27228,
-        "parentPid": 27204,
-        "name": "Code.exe",
-        "cpu": 1.3650007488372027,
-        "cpuu": 1.206756401158388,
-        "cpus": 0.15824434767881462,
-        "mem": 2.844302043852375,
-        "priority": 8,
-        "memVsz": 788724,
-        "memRss": 472628,
-        "nice": 0,
-        "started": "2025-08-13 16:01:26",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "\"C:\\Users\\abaldell\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=renderer --user-data-dir=\"C:\\Users\\abaldell\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-user-model-id=Microsoft.VisualStudioCode --app-path=\"C:\\Users\\abaldell\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\" --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1755072377422810 --launch-time-ticks=21309054027 --field-trial-handle=1748,i,8022133400039290995,9379912696772236850,262144 --enable-features=Document PolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,Est ablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,ScreenAIOCREnabled,SpareRenderer ForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=2948 --vscode-window-config=vscode:c39465f1-6bf9-4db1-9f75-7afb27766da7 /prefetch:1",
-        "path": "C:\\Users\\abaldell\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
-        "params": ""
-      },
-      {
-        "pid": 30348,
-        "parentPid": 30488,
-        "name": "Code.exe",
-        "cpu": 0.48121100972648545,
-        "cpuu": 0.4383803211181889,
-        "cpus": 0.04283068860829656,
-        "mem": 1.832907455529571,
-        "priority": 8,
-        "memVsz": 366712,
-        "memRss": 304568,
-        "nice": 0,
-        "started": "2025-08-13 16:01:51",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "\"C:\\Users\\abaldell\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --max-old-space-size=3072 \"c:\\Users\\abaldell\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\node_modules\\typescript\\lib\\tsserver.js\" --useInferredProjectPerProjectRoot --enableTelemetry --cancellationPipeName C:\\Users\\abaldell\\AppData \\Local\\Temp\\vscode-typescript\\32f7491d33f0e16c4379\\tscancellation-0e7d103aa71c3cd23b85.tmp* --locale en --noGetErrOnBackgroundUpdate --canUseWatchEvents --validateDefaultNpmLocation --useNodeIpc",
-        "path": "C:\\Users\\abaldell\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
-        "params": ""
-      },
-      {
-        "pid": 27524,
-        "parentPid": 5780,
-        "name": "Postman.exe",
-        "cpu": 1.6797004581204047,
-        "cpuu": 1.3016557700355944,
-        "cpus": 0.37804468808481034,
-        "mem": 1.4491480237304006,
-        "priority": 8,
-        "memVsz": 369668,
-        "memRss": 240800,
-        "nice": 0,
-        "started": "2025-08-13 16:56:18",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "\"C:\\Users\\abaldell\\AppData\\Local\\Postman\\app-11.33.0\\Postman.exe\" --type=renderer --user-data-dir=\"C:\\Users\\abaldell\\AppData\\Roaming\\Postman\" --app-user-model-id=com.squirrel.Postman.Postman --app-path=\"C:\\Users\\abaldell\\AppData\\Local\\Postman\\app-11.33.0\\resources\\app.asar\" --no-sandbox --no-zygote --lang=es --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=9 --time-ticks-at-unix-epoch=-1755072377275459 --launch-time-ticks=24601427869 --field-trial-handle=3664,i,7978388357194324997,10946360850901074501,262144 --disable-features=SpareR endererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=1196 /prefetch:1",
-        "path": "C:\\Users\\abaldell\\AppData\\Local\\Postman\\app-11.33.0\\Postman.exe",
-        "params": ""
-      },
-      {
-        "pid": 5004,
-        "parentPid": 10488,
-        "name": "msedgewebview2.exe",
-        "cpu": 0.3340811207643459,
-        "cpuu": 0.31545204572525937,
-        "cpus": 0.018629075039086503,
-        "mem": 15.61420887230045,
-        "priority": 8,
-        "memVsz": 2966624,
-        "memRss": 2594560,
-        "nice": 0,
-        "started": "2025-08-14 20:37:00",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\139.0.3405.86\\msedgewebview2.exe\" --type=renderer --noerrdialogs --user-data-dir=\"C:\\Users\\abaldell\\AppData\\Local\\Packages\\Microsoft.Mi crosoftOfficeHub_8wekyb3d8bbwe\\LocalState\\EBWebView\" --webview-exe-name=WebViewHost.exe --webview-exe-version=19.2508.37081.0 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=es --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --js-flags=\"--expose-gc --ms-user-locale=\" --time-ticks-at-unix-epoch=-1755072349356353 --launch-time-ticks=124271363046 --always-read-main-dll --metrics-shmem-handle=3432,i,8284298555447346901,9943602465136664257,2097152 --field-trial-handle=1828,i,4852188480904183352,9268318819758500427,262144 --enable-features=ForceSWD CompWhenDCompFallbackRequired,msAggressiveCacheTrimming,msCustomDataPartition,msSingleSignOnOSForPrim aryAccountIsShared,msWebView2NoTabForScreenShare,msWindowsTaskManager --disable-features=BackForwardC ache,BackgroundTabLoadingFromPerformanceManager,CloseOmniboxPopupOnInactiveAreaClick,CollectAVProduct sInfo,CollectCodeIntegrityInfo,EnableHangWatcher,FilterAdsOnAbusiveSites,GetWifiProtocol,LoginDetecti on,PreconnectToSearch,SafetyHub,SegmentationPlatform,SpareRendererForSitePerProcess,Ukm,WebPayments,m sAITrackerClassification,msAbydosForWindowlessWV2,msAffirmVirtualCard,msAllowChromeWebstore,msAllowMS APrtSSOForNonMSAProfile,msApplicationGuard,msAskBeforeClosingMultipleTabs,msAutoToggleAADPrtSSOForNon AADProfile,msAutofillEdgeCoupons,msAutofillEdgeCouponsAutoApply,msAutofillEdgeServiceRequest,msAutofi llEnableEdgeSuggestions,msAutomaticTabFreeze,msBrowserSettingsSupported,msCoarseGeolocationService,ms DataProtection,msDesktopMode,msDesktopRewards,msDisableVariationsSeedFetchThrottling,msEEProactiveHis tory,msETFOffstoreExtensionFileDataCollection,msETFPasswordTheftDNRActionSignals,msEdgeAdPlatformUI,m sEdgeAddWebCapturetoCollections,msEdgeAutofillShowDeployedPassword,msEdgeCaptureSelectionInPDF,msEdge CloudConfigService,msEdgeCloudConfigServiceV2,msEdgeCohorts,msEdgeCollectionsPrismExperiment1,msEdgeC ollectionsPrismOverallMigration,msEdgeComposeNext,msEdgeEnableNurturingFramework,msEdgeEnclavePrefsBa sic,msEdgeEnclavePrefsNotification,msEdgeFaviconService,msEdgeHJTelemetry,msEdgeHubAppSkype,msEdgeIma geEditorUI,msEdgeLinkDoctor,msEdgeMouseGestureDefaultEnabled,msEdgeMouseGestureSupported,msEdgeNewDev iceFre,msEdgeOnRampFRE,msEdgeOnRampImport,msEdgePDFCMHighlightUX,msEdgePasswordIris,msEdgePasswordIri sSaveBubble,msEdgeProngPersonalization,msEdgeReadingView,msEdgeRose,msEdgeScreenshotUI,msEdgeSendTabT oSelf,msEdgeSettingsImport,msEdgeSettingsImportV2,msEdgeShoppingPersistentStorage,msEdgeShoppingUI,ms EdgeSmartFind,msEdgeSuperDragDefaultEnabled,msEdgeSuperDragDropSupported,msEdgeTranslate,msEdgeUseCap tivePortalService,msEdgeWebCapture,msEdgeWebCaptureUniformExperience,msEdgeWebContentFilteringFeedbac k,msEdgeWorkSearchBanner,msEnableCustomJobMemoryLimitsOnXbox,msEnableMIPForPDF,msEnablePdfUpsell,msEn ableThirdPartyScanning,msEnableWebSignInCta,msEnableWebToBrowserSignIn,msEndpointDlp,msEnhancedTracki ngPreventionEnabled,msEntityExtraction,msExtensionTelemetryFramework,msExternalTaskManager,msFileSyst emAccessDirectoryIterationBlocklistCheck,msForceBrowserSignIn,msForeignSessionsPage,msGeolocationAcce ssService,msGeolocationOSLocationPermissionFallback,msGeolocationSQMService,msGeolocationService,msGr owthInfraLaunchSourceLogging,msGuidedSwitchAllowed,msHubPinPersist,msImplicitSignin,msIrm,msIrmv2,msK larnaVirtualCard,msLlmConsumerDlpPurview,msLoadStatistics,msLogIsEdgePinnedToTaskbarOnLaunch,msMIPCro ssTenantPdfViewSupport,msMdatpWebSiteDlp,msNotificationPermissionForPWA,msNumberOfSitesToPin,msNurtur ingGlobalSitePinningOnCloseModal,msNurturingSitePinningCITopSites,msNurturingSitePinningWithWindowsCo nsent,msOnHoverSearchInSidebar,msOpenOfficeDocumentsInWebViewer,msPasswordBreachDetection,msPdfAnnota tionsVisibility,msPdfDataRecovery,msPdfDigitalSignatureRead,msPdfFreeText,msPdfFreeTextForCJK,msPdfHi ghlightMode,msPdfInking,msPdfKeyphraseSupport,msPdfOOUI,msPdfPopupMarkerRenderer,msPdfShare,msPdfShar edLibrary,msPdfTextNote,msPdfTextNoteMoreMenu,msPdfThumbnailCache,msPdfUnderside,msPdfViewRestore,msP ersonalizationUMA,msPriceComparison,msPromptDefaultHandlerForPDF,msReactiveSearch,msReadAloud,msReadA loudPdf,msRedirectToShoreline,msRevokeExtensions,msSaasDlp,msShoppingTrigger,msShorelineSearch,msShor elineSearchFindOnPageWebUI,msShowOfflineGameEntrance,msShowReadAloudIconInAddressBar,msShowUXForAADPr tSSOForNonAADProfile,msSitePinningWithoutUi,msSuspendMessageForNewSessionWhenHavingPendingNavigation, msSyncEdgeCollections,msTabResourceStats,msTokenizationAutofillInlineEnabled,msTouchMode,msTriggering SignalGenerator,msUserUnderstanding,msVideoSuperResolutionUI,msWalletBuyNow,msWalletCheckout,msWallet DiagnosticDataLogger,msWalletHubEntry,msWalletHubIntlP3,msWalletPartialCard,msWalletPasswordCategoriz ation,msWalletPasswordCategorizationPlatformExpansion,msWalletTokenizationCardMetadata,msWalletTokeni zedAutofill,msWebAssist,msWebAssistHistorySearchService,msWebOOUI,msWindowsUserActivities,msZipPayVir tualCard --variations-seed-version --mojo-platform-channel-handle=3440 /pfhostedapp:7464e74665661736986c9da2100ae601a44aa5f7 /prefetch:1",
-        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\139.0.3405.86\\msedgewebview2.exe",
-        "params": ""
-      },
-      {
-        "pid": 21212,
-        "parentPid": 12340,
-        "name": "chrome.exe",
-        "cpu": 0.17948035597061202,
-        "cpuu": 0.14475915435984218,
-        "cpus": 0.03472120161076982,
-        "mem": 2.2455054144455024,
-        "priority": 8,
-        "memVsz": 378036,
-        "memRss": 373128,
-        "nice": 0,
-        "started": "2025-08-18 08:42:13",
-        "state": "unknown",
-        "tty": "",
-        "user": "",
-        "command": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" --type=renderer --enable-dinosaur-easter-egg-alt-images --no-pre-read-main-dll --enable-experimental-web-platform-features --video-capture-use-gpu-memory-buffer --lang=es --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1117 --time-ticks-at-unix-epoch=-1755072378085301 --launch-time-ticks=426995126817 --metrics-shmem-handle=4228,i,6715066388937466291,6339907079388071725,2097152 --field-trial-handle=1900,i,5348447327317258929,8339129299849182388,262144 --enable-features=BlockIns ecurePrivateNetworkRequests,BlockInsecurePrivateNetworkRequestsFromPrivate,BlockInsecurePrivateNetwor kRequestsFromUnknown,CookieSameSiteConsidersRedirectChain,CreateImageBitmapOrientationNone,CriticalCl ientHint,DocumentPictureInPictureAPI,DocumentPolicyNegotiation,EnableCanvas2DLayers,ExperimentalConte ntSecurityPolicyFeatures,OriginIsolationHeader,PartitionedPopins,PrivateNetworkAccessRespectPreflight Results,ThirdPartyStoragePartitioning --variations-seed-version=20250812-180128.347000 --mojo-platform-channel-handle=12388 /prefetch:1",
-        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-        "params": ""
-      }
-    ]
+    "inactive": false,
+    "uptimme_inactive_hours": 0
   },
   {
-    "timestamp": "2025-08-18T08:20:00.024Z",
-    "uptime_hours": "120.23",
-    "cpu_usage_percent": "33.77",
-    "ram_usage_percent": "87.17",
-    "battery_percent": 99,
-    "battery_plugged": true,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T08:25:00.017Z",
-    "uptime_hours": "120.31",
-    "cpu_usage_percent": "33.66",
-    "ram_usage_percent": "86.46",
-    "battery_percent": 99,
-    "battery_plugged": true,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T09:20:00.195Z",
-    "uptime_hours": "121.23",
-    "cpu_usage_percent": "33.14",
-    "ram_usage_percent": "84.79",
-    "battery_percent": 96,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T09:50:00.057Z",
-    "uptime_hours": "121.73",
-    "cpu_usage_percent": "59.21",
-    "ram_usage_percent": "86.95",
-    "battery_percent": 91,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T09:55:00.071Z",
-    "uptime_hours": "121.81",
-    "cpu_usage_percent": "51.50",
-    "ram_usage_percent": "87.11",
-    "battery_percent": 88,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T10:00:00.025Z",
-    "uptime_hours": "121.90",
-    "cpu_usage_percent": "42.79",
-    "ram_usage_percent": "86.56",
-    "battery_percent": 86,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T10:05:00.043Z",
-    "uptime_hours": "121.98",
-    "cpu_usage_percent": "39.47",
-    "ram_usage_percent": "82.57",
-    "battery_percent": 85,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T10:10:00.036Z",
-    "uptime_hours": "122.06",
-    "cpu_usage_percent": "42.30",
-    "ram_usage_percent": "83.31",
-    "battery_percent": 83,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T10:15:00.133Z",
-    "uptime_hours": "122.15",
-    "cpu_usage_percent": "38.11",
-    "ram_usage_percent": "85.51",
-    "battery_percent": 81,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T10:20:00.048Z",
-    "uptime_hours": "122.23",
-    "cpu_usage_percent": "45.90",
-    "ram_usage_percent": "84.12",
-    "battery_percent": 79,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T10:25:00.059Z",
-    "uptime_hours": "122.31",
-    "cpu_usage_percent": "45.45",
-    "ram_usage_percent": "83.96",
-    "battery_percent": 77,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T10:30:00.025Z",
-    "uptime_hours": "122.40",
-    "cpu_usage_percent": "49.41",
-    "ram_usage_percent": "87.58",
-    "battery_percent": 75,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T10:35:00.071Z",
-    "uptime_hours": "122.48",
-    "cpu_usage_percent": "51.14",
-    "ram_usage_percent": "91.29",
-    "battery_percent": 72,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T10:40:00.028Z",
-    "uptime_hours": "122.56",
-    "cpu_usage_percent": "60.26",
-    "ram_usage_percent": "90.69",
-    "battery_percent": 69,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T10:45:00.113Z",
-    "uptime_hours": "122.65",
-    "cpu_usage_percent": "52.50",
-    "ram_usage_percent": "87.84",
-    "battery_percent": 66,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T10:50:00.037Z",
-    "uptime_hours": "122.73",
-    "cpu_usage_percent": "49.75",
-    "ram_usage_percent": "89.56",
-    "battery_percent": 64,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T10:55:00.118Z",
-    "uptime_hours": "122.81",
-    "cpu_usage_percent": "63.48",
-    "ram_usage_percent": "90.31",
-    "battery_percent": 61,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T11:00:00.070Z",
-    "uptime_hours": "122.90",
-    "cpu_usage_percent": "53.12",
-    "ram_usage_percent": "89.71",
-    "battery_percent": 59,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T11:05:00.025Z",
-    "uptime_hours": "122.98",
-    "cpu_usage_percent": "65.02",
-    "ram_usage_percent": "64.50",
-    "battery_percent": 56,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T11:10:00.063Z",
-    "uptime_hours": "123.06",
-    "cpu_usage_percent": "51.27",
-    "ram_usage_percent": "63.51",
-    "battery_percent": 54,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T11:15:00.076Z",
-    "uptime_hours": "123.15",
-    "cpu_usage_percent": "48.51",
-    "ram_usage_percent": "64.44",
-    "battery_percent": 51,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T11:20:00.073Z",
-    "uptime_hours": "123.23",
-    "cpu_usage_percent": "48.80",
-    "ram_usage_percent": "64.76",
-    "battery_percent": 49,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T11:25:00.052Z",
-    "uptime_hours": "123.31",
-    "cpu_usage_percent": "45.71",
-    "ram_usage_percent": "64.49",
-    "battery_percent": 46,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T11:30:00.106Z",
-    "uptime_hours": "123.40",
-    "cpu_usage_percent": "45.62",
-    "ram_usage_percent": "64.55",
-    "battery_percent": 44,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T11:35:00.058Z",
-    "uptime_hours": "123.48",
-    "cpu_usage_percent": "45.51",
-    "ram_usage_percent": "64.60",
+    "timestamp": "2025-08-20T08:05:00.077Z",
+    "uptime_hours": "0.33",
+    "cpu_usage_percent": "60.50",
+    "ram_usage_percent": "79.26",
     "battery_percent": 42,
     "battery_plugged": false,
-    "isStandBy": false
+    "inactive": false,
+    "uptimme_inactive_hours": 0
   },
   {
-    "timestamp": "2025-08-18T11:40:00.085Z",
-    "uptime_hours": "123.56",
-    "cpu_usage_percent": "47.20",
-    "ram_usage_percent": "63.87",
-    "battery_percent": 40,
+    "timestamp": "2025-08-20T08:10:00.171Z",
+    "uptime_hours": "0.41",
+    "cpu_usage_percent": "64.47",
+    "ram_usage_percent": "83.86",
+    "battery_percent": 38,
     "battery_plugged": false,
-    "isStandBy": false
+    "inactive": false,
+    "uptimme_inactive_hours": 0
   },
   {
-    "timestamp": "2025-08-18T11:45:00.087Z",
-    "uptime_hours": "123.65",
-    "cpu_usage_percent": "51.18",
-    "ram_usage_percent": "64.44",
-    "battery_percent": 37,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T11:50:00.053Z",
-    "uptime_hours": "123.73",
-    "cpu_usage_percent": "48.94",
-    "ram_usage_percent": "64.34",
+    "timestamp": "2025-08-20T08:15:00.040Z",
+    "uptime_hours": "0.50",
+    "cpu_usage_percent": "50.80",
+    "ram_usage_percent": "79.93",
     "battery_percent": 35,
     "battery_plugged": false,
-    "isStandBy": false
+    "inactive": false,
+    "uptimme_inactive_hours": 0
   },
   {
-    "timestamp": "2025-08-18T11:55:00.049Z",
-    "uptime_hours": "123.81",
-    "cpu_usage_percent": "47.17",
-    "ram_usage_percent": "67.28",
+    "timestamp": "2025-08-20T08:20:00.107Z",
+    "uptime_hours": "0.58",
+    "cpu_usage_percent": "50.08",
+    "ram_usage_percent": "72.10",
     "battery_percent": 32,
     "battery_plugged": false,
-    "isStandBy": false
+    "inactive": false,
+    "uptimme_inactive_hours": 0
   },
   {
-    "timestamp": "2025-08-18T12:00:00.059Z",
-    "uptime_hours": "123.90",
-    "cpu_usage_percent": "42.27",
-    "ram_usage_percent": "66.92",
-    "battery_percent": 30,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T12:05:00.011Z",
-    "uptime_hours": "123.98",
-    "cpu_usage_percent": "30.69",
-    "ram_usage_percent": "70.65",
-    "battery_percent": 30,
+    "timestamp": "2025-08-20T08:25:00.024Z",
+    "uptime_hours": "0.66",
+    "cpu_usage_percent": "52.38",
+    "ram_usage_percent": "65.65",
+    "battery_percent": 31,
     "battery_plugged": true,
-    "isStandBy": false
+    "inactive": false,
+    "uptimme_inactive_hours": 0.03
   },
   {
-    "timestamp": "2025-08-18T12:10:00.027Z",
-    "uptime_hours": "124.06",
-    "cpu_usage_percent": "35.26",
-    "ram_usage_percent": "74.45",
-    "battery_percent": 34,
+    "timestamp": "2025-08-20T08:30:00.023Z",
+    "uptime_hours": "0.75",
+    "cpu_usage_percent": "30.16",
+    "ram_usage_percent": "65.28",
+    "battery_percent": 35,
     "battery_plugged": true,
-    "isStandBy": false
+    "inactive": false,
+    "uptimme_inactive_hours": 0
   },
   {
-    "timestamp": "2025-08-18T12:15:00.013Z",
-    "uptime_hours": "124.15",
-    "cpu_usage_percent": "26.34",
-    "ram_usage_percent": "83.91",
-    "battery_percent": 38,
+    "timestamp": "2025-08-20T08:35:00.028Z",
+    "uptime_hours": "0.83",
+    "cpu_usage_percent": "50.15",
+    "ram_usage_percent": "68.15",
+    "battery_percent": 39,
     "battery_plugged": true,
-    "isStandBy": false
+    "inactive": true,
+    "uptimme_inactive_hours": 0.19
   },
   {
-    "timestamp": "2025-08-18T12:20:00.019Z",
-    "uptime_hours": "124.23",
-    "cpu_usage_percent": "35.44",
-    "ram_usage_percent": "82.48",
-    "battery_percent": 42,
+    "timestamp": "2025-08-20T08:40:00.029Z",
+    "uptime_hours": "0.91",
+    "cpu_usage_percent": "35.45",
+    "ram_usage_percent": "69.64",
+    "battery_percent": 43,
     "battery_plugged": true,
-    "isStandBy": false
+    "inactive": true,
+    "uptimme_inactive_hours": 0.28
   },
   {
-    "timestamp": "2025-08-18T12:25:00.029Z",
-    "uptime_hours": "124.31",
-    "cpu_usage_percent": "20.68",
-    "ram_usage_percent": "82.34",
-    "battery_percent": 46,
+    "timestamp": "2025-08-20T08:45:00.022Z",
+    "uptime_hours": "1.00",
+    "cpu_usage_percent": "36.28",
+    "ram_usage_percent": "69.78",
+    "battery_percent": 47,
     "battery_plugged": true,
-    "isStandBy": false
+    "inactive": true,
+    "uptimme_inactive_hours": 0.36
   },
   {
-    "timestamp": "2025-08-18T12:30:00.033Z",
-    "uptime_hours": "124.40",
-    "cpu_usage_percent": "20.53",
-    "ram_usage_percent": "81.85",
-    "battery_percent": 51,
+    "timestamp": "2025-08-20T09:10:00.019Z",
+    "uptime_hours": "1.41",
+    "cpu_usage_percent": "46.01",
+    "ram_usage_percent": "74.31",
+    "battery_percent": 74,
     "battery_plugged": true,
-    "isStandBy": false
+    "inactive": false,
+    "uptimme_inactive_hours": 0
   },
   {
-    "timestamp": "2025-08-18T12:35:00.025Z",
-    "uptime_hours": "124.48",
-    "cpu_usage_percent": "20.26",
-    "ram_usage_percent": "82.49",
-    "battery_percent": 55,
+    "timestamp": "2025-08-20T09:15:00.020Z",
+    "uptime_hours": "1.50",
+    "cpu_usage_percent": "20.61",
+    "ram_usage_percent": "68.39",
+    "battery_percent": 78,
     "battery_plugged": true,
-    "isStandBy": false
+    "inactive": false,
+    "uptimme_inactive_hours": 0.01
   },
   {
-    "timestamp": "2025-08-18T12:40:00.026Z",
-    "uptime_hours": "124.56",
-    "cpu_usage_percent": "19.46",
-    "ram_usage_percent": "82.25",
-    "battery_percent": 60,
+    "timestamp": "2025-08-20T09:20:00.021Z",
+    "uptime_hours": "1.58",
+    "cpu_usage_percent": "12.81",
+    "ram_usage_percent": "66.80",
+    "battery_percent": 82,
     "battery_plugged": true,
-    "isStandBy": false
+    "inactive": false,
+    "uptimme_inactive_hours": 0.08
   },
   {
-    "timestamp": "2025-08-18T12:45:00.031Z",
-    "uptime_hours": "124.65",
-    "cpu_usage_percent": "21.29",
-    "ram_usage_percent": "82.89",
-    "battery_percent": 64,
+    "timestamp": "2025-08-20T09:25:00.027Z",
+    "uptime_hours": "1.67",
+    "cpu_usage_percent": "30.43",
+    "ram_usage_percent": "70.16",
+    "battery_percent": 86,
     "battery_plugged": true,
-    "isStandBy": false
+    "inactive": false,
+    "uptimme_inactive_hours": 0
   },
   {
-    "timestamp": "2025-08-18T12:50:00.017Z",
-    "uptime_hours": "124.73",
-    "cpu_usage_percent": "21.33",
-    "ram_usage_percent": "82.57",
-    "battery_percent": 68,
+    "timestamp": "2025-08-20T09:30:00.030Z",
+    "uptime_hours": "1.75",
+    "cpu_usage_percent": "23.56",
+    "ram_usage_percent": "73.26",
+    "battery_percent": 89,
     "battery_plugged": true,
-    "isStandBy": false
+    "inactive": false,
+    "uptimme_inactive_hours": 0
   },
   {
-    "timestamp": "2025-08-18T12:55:00.023Z",
-    "uptime_hours": "124.81",
-    "cpu_usage_percent": "19.67",
-    "ram_usage_percent": "82.84",
-    "battery_percent": 72,
-    "battery_plugged": true,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T13:00:00.022Z",
-    "uptime_hours": "124.90",
-    "cpu_usage_percent": "22.54",
-    "ram_usage_percent": "83.34",
-    "battery_percent": 77,
-    "battery_plugged": true,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T13:05:00.026Z",
-    "uptime_hours": "124.98",
-    "cpu_usage_percent": "19.87",
-    "ram_usage_percent": "84.32",
-    "battery_percent": 81,
-    "battery_plugged": true,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T13:10:00.027Z",
-    "uptime_hours": "125.06",
-    "cpu_usage_percent": "22.49",
-    "ram_usage_percent": "80.66",
-    "battery_percent": 84,
-    "battery_plugged": true,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T13:15:00.025Z",
-    "uptime_hours": "125.15",
-    "cpu_usage_percent": "20.82",
-    "ram_usage_percent": "80.99",
-    "battery_percent": 88,
-    "battery_plugged": true,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T13:20:00.021Z",
-    "uptime_hours": "125.23",
-    "cpu_usage_percent": "20.28",
-    "ram_usage_percent": "80.10",
-    "battery_percent": 90,
-    "battery_plugged": true,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T13:25:00.019Z",
-    "uptime_hours": "125.31",
-    "cpu_usage_percent": "22.22",
-    "ram_usage_percent": "81.20",
-    "battery_percent": 93,
-    "battery_plugged": true,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T13:30:00.016Z",
-    "uptime_hours": "125.40",
-    "cpu_usage_percent": "20.23",
-    "ram_usage_percent": "82.32",
-    "battery_percent": 95,
-    "battery_plugged": true,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T13:55:00.017Z",
-    "uptime_hours": "125.81",
-    "cpu_usage_percent": "42.09",
-    "ram_usage_percent": "88.53",
-    "battery_percent": 100,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T14:00:00.041Z",
-    "uptime_hours": "125.90",
-    "cpu_usage_percent": "34.37",
-    "ram_usage_percent": "87.60",
-    "battery_percent": 99,
-    "battery_plugged": true,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T14:05:00.015Z",
-    "uptime_hours": "125.98",
-    "cpu_usage_percent": "34.35",
-    "ram_usage_percent": "91.87",
-    "battery_percent": 99,
-    "battery_plugged": true,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T14:10:00.049Z",
-    "uptime_hours": "126.06",
-    "cpu_usage_percent": "28.73",
-    "ram_usage_percent": "88.11",
-    "battery_percent": 98,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T14:15:00.055Z",
-    "uptime_hours": "126.15",
-    "cpu_usage_percent": "29.95",
-    "ram_usage_percent": "87.59",
-    "battery_percent": 97,
-    "battery_plugged": false,
-    "isStandBy": false
-  },
-  {
-    "timestamp": "2025-08-18T14:25:00.068Z",
-    "uptime_hours": "126.31",
-    "cpu_usage_percent": "34.38",
-    "ram_usage_percent": "88.98",
-    "battery_percent": 93,
-    "battery_plugged": false
-  },
-  {
-    "timestamp": "2025-08-18T14:30:00.039Z",
-    "uptime_hours": "126.40",
-    "cpu_usage_percent": "49.17",
-    "ram_usage_percent": "89.44",
+    "timestamp": "2025-08-20T09:35:00.011Z",
+    "uptime_hours": "1.83",
+    "cpu_usage_percent": "16.43",
+    "ram_usage_percent": "72.41",
     "battery_percent": 91,
-    "battery_plugged": false
+    "battery_plugged": true,
+    "inactive": false,
+    "uptimme_inactive_hours": 0.01
+  },
+  {
+    "timestamp": "2025-08-20T09:40:00.023Z",
+    "uptime_hours": "1.92",
+    "cpu_usage_percent": "14.51",
+    "ram_usage_percent": "73.63",
+    "battery_percent": 94,
+    "battery_plugged": true,
+    "inactive": false,
+    "uptimme_inactive_hours": 0
+  },
+  {
+    "timestamp": "2025-08-20T09:45:00.031Z",
+    "uptime_hours": "2.00",
+    "cpu_usage_percent": "15.87",
+    "ram_usage_percent": "71.81",
+    "battery_percent": 96,
+    "battery_plugged": true,
+    "inactive": false,
+    "uptimme_inactive_hours": 0.01
+  },
+  {
+    "timestamp": "2025-08-20T09:50:00.025Z",
+    "uptime_hours": "2.08",
+    "cpu_usage_percent": "15.48",
+    "ram_usage_percent": "71.51",
+    "battery_percent": 97,
+    "battery_plugged": true,
+    "inactive": false,
+    "uptimme_inactive_hours": 0
+  },
+  {
+    "timestamp": "2025-08-20T09:55:00.023Z",
+    "uptime_hours": "2.17",
+    "cpu_usage_percent": "15.97",
+    "ram_usage_percent": "69.44",
+    "battery_percent": 99,
+    "battery_plugged": true,
+    "inactive": false,
+    "uptimme_inactive_hours": 0.02
   }
 ]

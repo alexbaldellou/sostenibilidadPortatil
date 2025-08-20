@@ -17,7 +17,6 @@ export const Dashboard = () => {
   }, []);
 
   const getMetrics = async () => {
-    console.log("1");
     MetricService.getMetrics().then((data) => {
       setMetrics(
         data.filter((da) => {
@@ -25,7 +24,6 @@ export const Dashboard = () => {
           return dateStr === today;
         })
       );
-      console.log("2");
       const getBatteryPercentage = data
         .filter((da) => {
           const dateStr = new Date(da.timestamp).toISOString().split("T")[0];
